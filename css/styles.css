@@ -129,6 +129,7 @@ header {
     .splitter {
         display: flex;
         align-items: center;
+        justify-content: center;
     }
     
     .articles.inverse {
